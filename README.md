@@ -5,10 +5,10 @@ Chrome extension source code for getting Latest Cryptocurrency Market Stats
 # installation
 
 ```
-1 - Download source file (ZIP).
+<h1>1</h1> - Download source file (ZIP).
 ```
 ```
-2 - Unzip source code.
+<h1>2</h1> - Unzip source code.
 ```
 ```
 3 - Type and enter this address on chrome 'chrome://extensions/'.
