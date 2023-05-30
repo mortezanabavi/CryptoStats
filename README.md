@@ -1,5 +1,5 @@
 # CryptoStats
-Chrome extension source code for getting Latest Cryptocurrency Market Stats
+Chrome extension source code for getting the latest cryptocurrency market stats.
 
 
 # installation
